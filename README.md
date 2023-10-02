@@ -1,2 +1,2 @@
 # ft_prinft
-I worked on the printf function, which is a commonly used function for printing something on the terminal in the C programming language.
+This project is a basic implementation of the printf function, enabling the display of various data types on the console. It incorporates the va_list structure and supports strings, integers, characters, and addresses
